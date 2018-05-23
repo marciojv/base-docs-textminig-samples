@@ -21,10 +21,10 @@
 
 
 # Nomenclatura dos arquivos 
- .pdf - Arquivos Originais
- .pdf.tiff - Arquivos Convertidos em Imagem ( simula escanneamento digital )
- .pdf.txt - arquivos usados para Text Mining
- .pdf.txt.meta - Metadados extraidos ( implementação a ser feita )
+ - .pdf - Arquivos Originais
+ - .pdf.tiff - Arquivos Convertidos em Imagem ( simula escanneamento digital )
+ - .pdf.txt - arquivos usados para Text Mining
+ - .pdf.txt.meta - Metadados extraidos ( implementação a ser feita )
  
 
 
@@ -46,9 +46,11 @@
 PDF para TIF 
  - convert -density 600 0001.pdf 0001.tiff
   ou 
-  convert -density 600  0001.pdf -depth 8 -strip -background white -alpha off 0001.tiff
+ 
+ convert -density 600  0001.pdf -depth 8 -strip -background white -alpha off 0001.tiff
 
  - Convertendo para TXT
+
   tesseract 0001.tif 0001 -l por
 
 
