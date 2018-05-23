@@ -4,14 +4,14 @@
   Text Mining 
 
 # Legenda de Documentos por Categoria
-0001 ate 0010 - Contratos de Serviços
-0011 até 0020 - Contratos de Locação
-0021 até 0025 - Contratos de Cooperação
-0026 ate 0030 - Contratos de venda de Produtos/Equipamentos 
-0031 ate 0035 - Leis Complementares
-0036 ate 0039 - Leis
-0040 ate 0045 - decretos
-0046 até 0050 - Portarias
+- 0001 ate 0010 - Contratos de Serviços
+- 0011 até 0020 - Contratos de Locação
+- 0021 até 0025 - Contratos de Cooperação
+- 0026 ate 0030 - Contratos de venda de Produtos/Equipamentos 
+- 0031 ate 0035 - Leis Complementares
+- 0036 ate 0039 - Leis
+- 0040 ate 0045 - decretos
+- 0046 até 0050 - Portarias
 
 
 # Script 
