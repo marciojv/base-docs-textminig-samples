@@ -54,6 +54,11 @@ PDF para TIF
   tesseract 0001.tif 0001 -l por
 
 
+# Referências:
+ - http://www.cnblogs.com/tyshan/p/4867949.html
+ - http://profs.if.uff.br/tjpp/blog/entradas/brazilian-portuguese-oficialmente-suportado-no-tesseract-ocr
+ - http://blogs.ambientelivre.com.br/marcio/ocr-no-alfresco-com-tesseract-em-portugues/
+
 
 
 
