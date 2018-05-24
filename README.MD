@@ -28,6 +28,14 @@
  
 
 
+# Layout do Arquivo Meta 
+
+  Arquivo Delimitado por ; ( ponto e virgula )
+  - ID       - ID do Documento 
+  - METADADO - Nome do Metadado ( podem sem inclusos outros alem dos já adicionados no arquivo 0001.pdf.txt.meta de exemplo
+  - SEQUENCE - Sequencia para caso o meso metadado posa ser encontrado duas vezes
+  - VALUE    - Valor da Metadado encontrado.
+
 
 # Fontes dos Dados
 
